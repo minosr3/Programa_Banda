@@ -1,7 +1,7 @@
 # Programa Banda 
 José Alejandro Pintor González
 20152020054  
-Carlos Andres ÑaÑez Molina
+Carlos Andres Ñañez Molina
 201520200  
 Einar Nayib Moreno Bustos 20152020401  
 Diagrama de clases
